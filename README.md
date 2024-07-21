@@ -1,0 +1,1 @@
+This project was done to develop a complete website using what I have learned so far in HTML.
